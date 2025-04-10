@@ -11,6 +11,8 @@ body{
     background: linear-gradient(60deg, #000000, #1a1a1a, #000000);
     background-size: 600% 600%;
     animation: bgmove 10s ease infinite;
+    background-color: black;
+    overflow: hidden;
 }
 .head-sec-cont{
     margin-top: 10%;
